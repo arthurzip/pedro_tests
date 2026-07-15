@@ -1,2 +1,8 @@
 def hello():
-    print('Hello, World!')
+    print('Hello,world!!!!!')
+
+def hi():
+    print('Hi!!!!!!')
+
+
+print("TESTE GIT")
