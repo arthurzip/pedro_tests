@@ -11,4 +11,5 @@ print("TESTE GIT")
 def news_paper():
     print('Paper')
 
-print('iiiiiiiiii')
+print(1)
+print(12)
