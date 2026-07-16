@@ -6,3 +6,7 @@ def hi():
 
 
 print("TESTE GIT")
+
+
+def news_paper():
+    print('Paper')
