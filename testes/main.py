@@ -9,7 +9,7 @@ print("TESTE GIT")
 
 
 def news_paper():
-    print('Paper')
+    print('Papelão')
 
 print(1)
 print(12)
