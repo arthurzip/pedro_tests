@@ -20,4 +20,4 @@ print(12)
 print(12)
 print(12)
 
-toma = 2
+toma = 1
