@@ -9,16 +9,7 @@ print("TESTE GIT")
 
 
 def news_paper():
-    print('Papelão')
-
-pedro = 'arthur'
+    print('Paper')
 
 print(1)
 print(12)
-print(12)
-print(12)
-print(12)
-print(12)
-print(12)
-print(12)
-
